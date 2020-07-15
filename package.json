@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "@types/react": "^16.9.43",
+    "lerna": "^3.22.1"
+  }
+}
